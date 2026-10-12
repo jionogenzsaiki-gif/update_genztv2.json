@@ -1,13 +1,9 @@
 {
   "latestVersionCode": 1,
-  "latestVersionName": "1.1.0",
+  "latestVersionName": "1.0.0",
   "forceUpdate": false,
   "title": "Update GenzTV tersedia",
-  "message": "Versi terbaru GenzTV tersedia!",
+  "message": "Versi terbaru GenzTV tersedia.",
   "downloadUrl": "https://example.com/genztv.apk",
-  "releaseNotes": [
-    "Perbaikan bug",
-    "Peningkatan performa",
-    "Penyempurnaan tampilan Android TV"
-  ]
+  "releaseNotes": []
 }
